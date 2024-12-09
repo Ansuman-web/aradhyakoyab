@@ -2,9 +2,12 @@ aiofiles
 aiohttp
 #asyncio==3.4.3
 asyncio
+aiohttp
 beautifulsoup4
 dnspython
 ffmpeg-python
+flask
+gunicorn
 future==0.18.3
 search_engine_parser
 telethon==1.33.1
